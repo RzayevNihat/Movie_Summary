@@ -33,7 +33,7 @@ The model is trained using **Logistic Regression**, and an interactive web appli
 ├── merged_movie_data.csv # Combined dataset
 ├── sentiment_model.pkl # Trained sentiment model
 ├── tfidf_vectorizer.pkl # TF-IDF vectorizer
-├── train_model.py # Model training & saving script
+├── train_model.jpynb # Model training & saving script
 ├── str.py # Streamlit application
 └── README.md # Project documentation
 ```
