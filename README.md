@@ -26,6 +26,7 @@ The model is trained using **Logistic Regression**, and an interactive web appli
 ---
 
 ## 📂 Project Structure
+```
 📦 movie-review-analysis
 ├── imdb_list.csv # IMDB movie metadata
 ├── imdb_reviews.csv # IMDB user reviews
@@ -35,7 +36,7 @@ The model is trained using **Logistic Regression**, and an interactive web appli
 ├── train_model.py # Model training & saving script
 ├── str.py # Streamlit application
 └── README.md # Project documentation
-
+```
 
 ---
 
