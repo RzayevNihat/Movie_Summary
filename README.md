@@ -74,7 +74,7 @@ After selecting a movie, the app will display:
   💬 Randomly selected reviews with sentiment labels (Positive / Negative)
 
 
-✨ Future Improvements
+## ✨ Future Improvements
 
   Use Transformer models (BERT, DistilBERT) for more accurate sentiment analysis
 
@@ -82,17 +82,17 @@ After selecting a movie, the app will display:
 
   Visualize sentiment distribution using charts (bar, pie)
 
-Support multi-language reviews
+  Support multi-language reviews
 
-🤝 Contributing
+## 🤝 Contributing
 
   Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to improve.
 
-📄 License
+## 📄 License
 
   This project is licensed under the MIT License – feel free to use and modify.
 
 ---
 
-👉 Do you want me to also **generate the `requirements.txt` file** for you right now so you can upload it along with this README?
+## 👉 Do you want me to also **generate the `requirements.txt` file** for you right now so you can upload it along with this README?
 
