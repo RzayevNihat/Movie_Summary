@@ -45,6 +45,7 @@ The model is trained using **Logistic Regression**, and an interactive web appli
 ```bash
 git clone https://github.com/your-username/movie-review-analysis.git
 cd movie-review-analysis
+```
 2️⃣ Install dependencies
 pip install -r requirements.txt
 requirements.txt should include:
