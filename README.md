@@ -46,46 +46,51 @@ The model is trained using **Logistic Regression**, and an interactive web appli
 git clone https://github.com/your-username/movie-review-analysis.git
 cd movie-review-analysis
 ```
-2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 pip install -r requirements.txt
+
 requirements.txt should include:
-pandas
-scikit-learn
-joblib
-streamlit
-sumy
-3️⃣ Train the model (if .pkl files are missing)
-python train_model.py
-4️⃣ Run the Streamlit app
-streamlit run str.py
-📊 Example Output
+  -pandas
+  -scikit-learn
+  -joblib
+  -streamlit
+  -sumy
+## 3️⃣ Train the model (if .pkl files are missing)
+```bash
+  -python train_model.py
+```
+# 4️⃣ Run the Streamlit app
+  ```bash
+  -streamlit run str.py
+```
+# 📊 Example Output
 
 After selecting a movie, the app will display:
 
-🎬 Movie title
+  🎬 Movie title
 
-📝 A 3-sentence summary of reviews
+  📝 A 3-sentence summary of reviews
 
-💬 Randomly selected reviews with sentiment labels (Positive / Negative)
+  💬 Randomly selected reviews with sentiment labels (Positive / Negative)
 
 
 ✨ Future Improvements
 
-Use Transformer models (BERT, DistilBERT) for more accurate sentiment analysis
+  Use Transformer models (BERT, DistilBERT) for more accurate sentiment analysis
 
-Add emotion classification (joy, sadness, anger, etc.)
+  Add emotion classification (joy, sadness, anger, etc.)
 
-Visualize sentiment distribution using charts (bar, pie)
+  Visualize sentiment distribution using charts (bar, pie)
 
 Support multi-language reviews
 
 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to improve.
+  Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to improve.
 
 📄 License
 
-This project is licensed under the MIT License – feel free to use and modify.
+  This project is licensed under the MIT License – feel free to use and modify.
 
 ---
 
